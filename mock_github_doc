@@ -1,0 +1,45 @@
+# GitHub for the Rest of Us (No Coding Required)
+
+If you aren't a software engineer, opening GitHub for the first time can feel like walking into the cockpit of an airplane. There are buttons everywhere, half the screen is in a language you don't speak, and you might be afraid of breaking something. 
+
+Take a deep breath. Here is the secret: for what we need to do, **GitHub is basically just Google Drive with a really good "Undo" button.**
+
+This guide will show you how to read, edit, and save documents on GitHub without touching a line of code or downloading a single app.
+
+## What You Need Before We Start
+* A free account on GitHub.com.
+* A web browser.
+* About five minutes. 
+
+## The Jargon Translator
+Developers love making simple things sound complicated. Before we click anything, let's translate the three most common words you'll see:
+
+* **Repository (or "Repo"):** This is just a project folder. That's it. It holds all the text files and images for a specific project.
+* **Commit:** This is developer-speak for "Save." When you make a change, you "commit" it to the project's history. 
+* **Branch:** Think of this as a "Rough Draft." Instead of editing the official, live document, you create a branch. You make all your messy edits on your branch, and when it looks perfect, you ask to merge it into the official version.
+
+---
+
+## Step 1: Find the file you want to edit
+First, we need to locate the document you want to change. Editing is easier than starting from scratch.
+
+In the search bar, type "open source documentation" for example. Find a document ending with .md, meaning markdown.
+
+## Step 2: Click the magic pencil
+You don't need to download this file to edit it. You can do it right here on the webpage.
+
+1. Look at the top right corner of the document.
+2. Click the icon that looks like a **small pencil**.
+3. You will be asked to fork the document before you edit. *This just means to make a personal copy of it*.  
+4. The screen will change into an editing box. You can now type, delete, and fix typos just like you would in Microsoft Word or Google Doc!
+
+## Step 3: Tell GitHub what you changed ("Commit changes")
+When you are done typing, you need to save your work. In GitHub, you don't just click "Save." You have to leave a tiny sticky note explaining *what* you saved so your team knows what happened.
+Even if you're working alone at the moment, it's a good practice to commit as if you were part of a team.
+
+1. At the top right, click **Commit changes** box.
+2. In the "Propose changes" box, write a short, clear summary in the "Commit message" section. (Example: *"Fixed a typo in the second paragraph."*)
+3. Add a description of the changes in the "Extended description" field (optional).
+3. Click the big green **Commit changes** / **Propose changes** button.
+
+You just made your first GitHub edit!
